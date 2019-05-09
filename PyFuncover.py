@@ -33,6 +33,8 @@ import urllib
 import textwrap
 import sys
 
+__version__ = '1.0.0'
+
 #get system
 if sys.platform in ['win32']:
     FLAG = True
